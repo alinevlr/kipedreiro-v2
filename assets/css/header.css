@@ -16,6 +16,16 @@ header{
     height: 20px;
 }
 
+.cotacao{
+    color: rgb(255, 223, 202);
+    font-size: 20px;
+}
+
+.icon-ideia{
+    width: 40px;
+    height: 40px;
+}
+
 .menu-primario{
     max-width: 1200px;
     margin: 0 auto;
@@ -35,6 +45,6 @@ header{
 }
 
 .logo{
-    width: 300px;
+    width: 400px;
 }
 
